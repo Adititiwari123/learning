@@ -1,2 +1,2 @@
 # learning
-This is demo for git and github classs
+This is demo for git and github classs.
